@@ -1,2 +1,0 @@
-# GitHubTest
-Created with CodeSandbox
